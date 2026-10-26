@@ -1,5 +1,5 @@
 # Team charter
-
+Team Name: Landfall Analytics 
 ## Members
 - Russell Fullerton (GitHub: rfullerton42)
 - Todd Balwinski (GitHub: toddbalwinski)
